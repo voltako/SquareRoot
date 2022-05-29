@@ -4,6 +4,6 @@ public class SquareApplication {
         double myroot;
         root = 1048576;
         myroot = SquareRoot.sqrtRoot(root);
-        System.out.println("Мой расчет корня: " + myroot);
+        System.out.println("The root is: " + myroot);
     }
 }
